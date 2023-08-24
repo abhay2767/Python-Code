@@ -23,3 +23,4 @@ def sub(a,b):
 hello()
 #greet(add)(1,2) #The argument will not reach to add function
 add(1,2)
+sub(5,3)
