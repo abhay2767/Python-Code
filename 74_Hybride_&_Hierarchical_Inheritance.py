@@ -54,6 +54,9 @@ ob = Student()  # Object named ob of the class Student.
 print()
 ob.display()    # Calling the display method of Student class.
 
+
+
+
 #Hierarchical Inheritance
 class BaseClass:
     pass
