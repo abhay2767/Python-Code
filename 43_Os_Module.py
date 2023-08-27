@@ -11,6 +11,7 @@ import os
 #Rename the folder from day to tutorial
 """ for i in range(0,100):
     os.rename(f"data/Day{i+1}", f"data/tutorial{i+1}") """
+#os.rename("clutteredPhotos/Return Group 2.pdf","clutteredPhotos/Group Back 2.pdf")
 
 #list all the folder 
 """ folders = os.listdir("data")
