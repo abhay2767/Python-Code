@@ -1,0 +1,3 @@
+""" Use the News API and the requests module to fetch the daily news related to different   topics.
+Go to: "https://newsapi.org/" and explore the various options to build you application
+ """
