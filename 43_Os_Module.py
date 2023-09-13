@@ -2,11 +2,11 @@
 import os
 
 #create 100 folders inside the folder(data)
-""" if(not os.path.exists("data")):
-    os.mkdir("data") """
+""" if(not os.path.exists("A:\MCA\English")):
+    os.mkdir("A:\MCA\English")
 
-""" for i in range(0,100):
-    os.mkdir(f"data/Day{i+1}") """
+for i in range(0,100):
+    os.mkdir(f"A:\MCA\English/Day{i+1}")  """
 
 #Rename the folder from day to tutorial
 """ for i in range(0,100):
